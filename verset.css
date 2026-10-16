@@ -1,0 +1,38 @@
+/* Verset.dev: font families and neutral colors only.
+   Original sizes, spacing, positioning, formats, screens and animation rules remain untouched. */
+@font-face{font-family:Archivo;src:url('assets/Archivo-400.ttf') format('truetype');font-weight:400;font-display:swap}
+@font-face{font-family:Archivo;src:url('assets/Archivo-600.ttf') format('truetype');font-weight:600;font-display:swap}
+@font-face{font-family:Archivo;src:url('assets/Archivo-700.ttf') format('truetype');font-weight:700;font-display:swap}
+@font-face{font-family:Archivo;src:url('assets/Archivo-900.ttf') format('truetype');font-weight:900;font-display:swap}
+@font-face{font-family:'PT Serif';src:url('assets/PTSerif-Italic.ttf') format('truetype');font-weight:400;font-style:italic;font-display:swap}
+:root{
+  --_typography---font-primary:Archivo,Arial,sans-serif;
+  --_typography---font-secondary:Archivo,Arial,sans-serif;
+  --_typography---font-tertiary:Archivo,Arial,sans-serif;
+  --_typography---italic:'PT Serif',Georgia,serif;
+  --_colors---base-colors--red:#161616;
+  --_colors---base-colors--blue:#303030;
+  --_colors---base-colors--white:#F2F2F0;
+  --_colors---base-colors--grey:#D2D2D2;
+  --_colors---text-colors--main-text-color:#161616;
+  --_colors---text-colors--headings-color:#161616;
+  --_colors---text-colors--title-color:#161616;
+  --_colors---bg-colors--bg-primary:#F2F2F0;
+  --_colors---bg-colors--bg-secondary:#D2D2D2;
+  --_colors---bg-colors--bg-tertiary:#161616;
+  --_colors---bg-colors--accent-color:#303030;
+}
+body{font-family:Archivo,Arial,sans-serif;color:#161616;background-color:#F2F2F0}
+.italic,.italic-text{font-family:'PT Serif',Georgia,serif}
+.faq_wrapper pre.w-code-block.faq-code,.faq_wrapper pre.w-code-block.faq-code code,.faq_wrapper pre.w-code-block.faq-code code span{font-family:Archivo,Arial,sans-serif!important;color:#161616!important}
+.faq_wrapper pre.w-code-block.faq-code{background-color:#F2F2F0!important;scrollbar-color:#6B6B6B #F2F2F0}
+.retro_ps,.retro_mobile,.wallpaper,.file_img,.file-inner_img,.about_image,.arrow_img,.outline_img,.ab_arrow,.list_dot,.qr-image,.corner-icon,.e-icon,.arrows-icon,.bottom_devider,.top_devider,.widget_icon,.dot,.barcode,video,canvas{filter:grayscale(1)}
+.service_content_wrap,.card_botom_wrap,.pricing_grabb,.faq_grabb,.testimonial_grabb,.andrii_grabb,.natalia_grabb,.zefir_grabb,.testimonial_inner_wrap{background-color:#F2F2F0}
+.pricing_wrapper{filter:grayscale(1)}
+#pricing .bg-service-text,#pricing .price-disclaimer{color:#161616}
+#pricing .title_wrap.white{color:#161616;border-color:#161616}
+.red_dot,.pricing_close{background-color:#161616}
+.dash_line,.dashed_line,.dashed_line_menu_top,.dashed_line_menu_bottom,.client_image_wrap{filter:grayscale(1)}
+::selection{background:#303030;color:#FFFFFF}
+
+

@@ -1,0 +1,14 @@
+{
+  "brand": "Verset.dev",
+  "changes": [
+    "font-family",
+    "color palette",
+    "logo artwork"
+  ],
+  "source": "original-neutomni.html",
+  "fonts": [
+    "Archivo",
+    "PT Serif Italic"
+  ],
+  "content": "Confirmed owner brief: Portuguese, services, prices, team roles and conversion goals"
+}
