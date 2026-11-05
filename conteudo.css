@@ -1,4 +1,14 @@
-
 /* Content assets: original window dimensions and interaction rules remain unchanged. */
-.zefir_wrapper .file-inner_img,.natalia_wrapper .file-inner_img,.andrii_wrapper .file-inner_img{background-image:url('assets/symbol.svg');background-size:42% auto;background-position:center;background-repeat:no-repeat;background-color:#F2F2F0}
-.about_image{object-fit:contain}
+.zefir_wrapper .file-inner_img,
+.natalia_wrapper .file-inner_img,
+.andrii_wrapper .file-inner_img {
+    background-image: url('assets/symbol.svg');
+    background-size: 42% auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #F2F2F0
+}
+
+.about_image {
+    object-fit: contain
+}

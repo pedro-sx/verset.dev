@@ -1,0 +1,16 @@
+{
+  "scope": "Only fonts, colors and logo; original source restored",
+  "original_scripts": 29,
+  "preserved_animation_hooks": 50,
+  "sections": 7,
+  "original_links_unchanged": true,
+  "video_restored": true,
+  "layout_rules_added": false,
+  "source_sha256": "f2013507a0fd927a02e73bfd54620ed59a0e5d7e651040a5df0cf7f89acc0d0c",
+  "computerSectionFix": "Removed opaque container background; original animation retained",
+  "localVideo": true,
+  "offlineCoreVerified": true,
+  "javascriptErrors": [],
+  "missingLocalAssets": [],
+  "cookieConsentLocal": true
+}

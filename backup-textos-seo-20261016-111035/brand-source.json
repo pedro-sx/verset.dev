@@ -1,0 +1,13 @@
+{
+  "brand": "Verset.dev",
+  "changes": [
+    "font-family",
+    "color palette",
+    "logo artwork"
+  ],
+  "source": "original-neutomni.html",
+  "fonts": [
+    "Archivo",
+    "PT Serif Italic"
+  ]
+}
